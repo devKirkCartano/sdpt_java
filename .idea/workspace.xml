@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83e3f61-68b6-4943-9881-51ec15915f8e" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/javaFundamentals/InputAndArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaFundamentals/Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Q8qwNLkS1PPHmdaCAQDGgUvjpe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684745797674</updated>
       <workItem from="1684745799184" duration="1093000" />
-      <workItem from="1684747985911" duration="5996000" />
+      <workItem from="1684747985911" duration="9525000" />
     </task>
     <task id="LOCAL-00001" summary="moved file to package">
       <created>1684751651023</created>
@@ -80,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684751756871</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added class in package">
+      <created>1684755880496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684755880496</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initial commit">
+      <created>1684755900130</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684755900130</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="moved file to package" />
+    <MESSAGE value="added class in package" />
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
