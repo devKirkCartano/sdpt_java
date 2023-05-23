@@ -46,6 +46,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
@@ -59,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684745797674</updated>
       <workItem from="1684745799184" duration="1093000" />
-      <workItem from="1684747985911" duration="9525000" />
+      <workItem from="1684747985911" duration="10875000" />
     </task>
     <task id="LOCAL-00001" summary="moved file to package">
       <created>1684751651023</created>
@@ -96,7 +97,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684755900130</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="edit README.md">
+      <created>1684760803848</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684760803848</updated>
+    </task>
+    <task id="LOCAL-00007" summary="initial commit">
+      <created>1684760835312</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684760835312</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added class">
+      <created>1684760867786</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684760867786</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +127,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="moved file to package" />
     <MESSAGE value="added class in package" />
+    <MESSAGE value="edit README.md" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added class" />
   </component>
 </project>
