@@ -1,5 +1,5 @@
 package main;
-
+import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
@@ -16,8 +16,17 @@ public class Main {
         p1.sex = 'F';
         p1.age = 29;
 
-
         System.out.println(p.firstName + " " + p.lastName + " is " + p.age + " years old.");
         System.out.println(p1.firstName + " " + p1.lastName + " is " + p1.age + " years old.");
+
+        Scanner s = new Scanner(System.in);
+
+        Product product = new Product("Milk", 100); // creating an object of type Product
+        System.out.print("Name: ");
+        product.name = s.nextLine(); // alternative input method
+
+        System.out.print("Price: ");
+        product.price = s.nextFloat();
+        System.out.println(product.name + " costs " + product.price);
     }
 }
