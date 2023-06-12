@@ -1,5 +1,5 @@
 package main;
-import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -40,5 +40,18 @@ public class Main {
         s1.introduceSelf();
         System.out.println();
         s1.evaluateGrade();
+
+        // Encapsulation
+        User u = new User(123, "jdoe", "John", "Doe");
+        u.setUserID(456);
+        System.out.println(u.getUserID());
+        String name = u.getFirstName();
+        System.out.println(name);
+
+        GuestUser ge = new GuestUser(12345, "Jane doe", "Jane", "Doe");
+
+        ge.firstName = "Kirk";
+        System.out.println(ge.firstName);
+
     }
 }

@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83e3f61-68b6-4943-9881-51ec15915f8e" name="Changes" comment="initial commit" />
+    <list default="true" id="f83e3f61-68b6-4943-9881-51ec15915f8e" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstraction/BDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstraction/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstraction/DBP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionOne/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionOne/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionOne/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionOne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/AirAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/LandAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/WaterAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/main/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/main/GuestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/StrongEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/WeakEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/test/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/test/NumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/test/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/src/main/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/src/main/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -23,6 +57,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2Q8qwNLkS1PPHmdaCAQDGgUvjpe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -31,24 +68,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "D:/Github_Repositories",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Github_Repositories&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +97,13 @@
       <updated>1684745797674</updated>
       <workItem from="1684745799184" duration="1093000" />
       <workItem from="1684747985911" duration="10875000" />
-      <workItem from="1684810049233" duration="14545000" />
+      <workItem from="1684810049233" duration="25219000" />
+      <workItem from="1684935529213" duration="4623000" />
+      <workItem from="1684972420936" duration="20015000" />
+      <workItem from="1685419537471" duration="1650000" />
+      <workItem from="1685430093318" duration="6267000" />
+      <workItem from="1685440231997" duration="14000" />
+      <workItem from="1686563271798" duration="4099000" />
     </task>
     <task id="LOCAL-00001" summary="moved file to package">
       <created>1684751651023</created>
@@ -166,7 +210,63 @@
       <option name="project" value="LOCAL" />
       <updated>1684835028132</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="initial commit">
+      <created>1684835179781</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1684835179781</updated>
+    </task>
+    <task id="LOCAL-00017" summary="initial commit">
+      <created>1684836683126</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1684836683126</updated>
+    </task>
+    <task id="LOCAL-00018" summary="initial commit">
+      <created>1684840805862</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684840805862</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added constructor implementation">
+      <created>1684840846551</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1684840846551</updated>
+    </task>
+    <task id="LOCAL-00020" summary="initial commit">
+      <created>1684850406382</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684850406382</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added object methods">
+      <created>1684850444930</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684850444930</updated>
+    </task>
+    <task id="LOCAL-00022" summary="initial commit">
+      <created>1684940239609</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684940239609</updated>
+    </task>
+    <task id="LOCAL-00023" summary="initial commit">
+      <created>1684984732348</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1684984732348</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +291,8 @@
     <MESSAGE value="added ignored file" />
     <MESSAGE value="moved text" />
     <MESSAGE value="moved files to module" />
+    <MESSAGE value="added constructor implementation" />
+    <MESSAGE value="added object methods" />
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
