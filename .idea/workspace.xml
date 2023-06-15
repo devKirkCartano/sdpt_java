@@ -4,39 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83e3f61-68b6-4943-9881-51ec15915f8e" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstraction/BDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstraction/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstraction/DBP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstraction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionOne/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionOne/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionOne/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionOne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/AirAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/LandAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/abstractionTwo/WaterAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/main/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/main/GuestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/StrongEnemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/polymorphism/WeakEnemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/test/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/test/NumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/test/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/test/Test.java" afterDir="false" />
+    <list default="true" id="f83e3f61-68b6-4943-9881-51ec15915f8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP/src/arrayLists/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/arrayLists/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/arrayOfObjects/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/arrayOfObjects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/enumerators/AILevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/enumerators/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/src/main/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/src/main/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -103,7 +79,9 @@
       <workItem from="1685419537471" duration="1650000" />
       <workItem from="1685430093318" duration="6267000" />
       <workItem from="1685440231997" duration="14000" />
-      <workItem from="1686563271798" duration="4099000" />
+      <workItem from="1686563271798" duration="4506000" />
+      <workItem from="1686637257648" duration="139000" />
+      <workItem from="1686792504601" duration="9862000" />
     </task>
     <task id="LOCAL-00001" summary="moved file to package">
       <created>1684751651023</created>
@@ -266,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684984732348</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="initial commit">
+      <created>1686569573953</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1686569573953</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
